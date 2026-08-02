@@ -6,7 +6,7 @@ I'm **cowbeer**, an idealist, cryptographer, programmer. Coding for a world with
 - 🔒 Written some **zero-knowledge proof** and other cryptographic libraries.
 - 🤖 Building **AI** and cool things.
 - 🍁 Planted many plants and flowers in the **garden**.
-- ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart(Flutter), Elixir, Ruby... :)
+- ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart (Flutter), Elixir, Ruby... :)
 
 I am currently working as an **open source developer**.
 
